@@ -9,8 +9,8 @@ import AddIcon from '@mui/icons-material/Add';
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
 import ForumIcon from '@mui/icons-material/Forum';
 import NotificationsActiveIcon from '@mui/icons-material/NotificationsActive';
-import { Avatar, Icon, IconButton } from '@mui/material';
-import FacebookRoundedIcon from '@mui/icons-material/Facebook';
+import { Avatar, IconButton } from '@mui/material';
+import './Header.css';
 
 function Header() {
   return (

@@ -1,0 +1,10 @@
+.app {
+  background-color: #d9d9d9;
+}
+.app__body {
+  display: flex;
+  margin-top: 20px;
+  max-width: 100vw;
+  margin-left: 10px;
+  margin-right: 10px;
+}
